@@ -15,6 +15,8 @@
 .login-form {
   display: flex;
   flex-direction: column;
+  position: relative;
+  top: 30px;
 }
 .login-input {
   border-radius: 5px;
